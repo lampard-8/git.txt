@@ -1,7 +1,5 @@
 111111adddssdasdasdasd
 1212121212121
-<<<<<<< HEAD
-=======
 shengxx
 shengxx11
->>>>>>> f355b4235760d76175b9b37284916a8bbf5d9b3f
+
